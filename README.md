@@ -3,7 +3,6 @@
 ## Run
 
 ```
-$ pnpm i
+$ npm i
 $ hardhat compile
-$ pnpm script
 ```
